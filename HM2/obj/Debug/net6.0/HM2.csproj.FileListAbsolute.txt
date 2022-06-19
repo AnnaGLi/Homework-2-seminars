@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\HM2.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\HM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\HM2.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\HM2.AssemblyInfo.cs
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\HM2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\HM2\bin\Debug\net6.0\HM2.exe
+C:\Users\Hp\Desktop\HM2\bin\Debug\net6.0\HM2.deps.json
+C:\Users\Hp\Desktop\HM2\bin\Debug\net6.0\HM2.runtimeconfig.json
+C:\Users\Hp\Desktop\HM2\bin\Debug\net6.0\HM2.dll
+C:\Users\Hp\Desktop\HM2\bin\Debug\net6.0\HM2.pdb
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\HM2.dll
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\refint\HM2.dll
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\HM2.pdb
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\HM2.genruntimeconfig.cache
+C:\Users\Hp\Desktop\HM2\obj\Debug\net6.0\ref\HM2.dll
